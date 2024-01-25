@@ -1,0 +1,11 @@
+{
+  "name": "diddopro",
+  "version": "1.0.0",
+  "description": "Frontend on React JS for Azure AI Search Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "jesty"
+  },
+  "author": "Nate Sire",
+  "license": "MIT"
+}
